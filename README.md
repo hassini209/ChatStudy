@@ -149,7 +149,7 @@ from operator import truediv
 <img width="890" height="820" alt="Screenshot 2026-02-05 113144" src="https://github.com/user-attachments/assets/f58df91b-8ae3-412e-af02-d8a96a654b09" />
 
 ## result
-the chat applicatin completeed suceesfully
+the chat applicatin completeed suceesfully..
 
 
 
